@@ -1,0 +1,7 @@
+---
+title: "notes"
+output: html_document
+date: 2025-01-23
+---
+
+I finished 2 experiments
